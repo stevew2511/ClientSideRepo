@@ -1,3 +1,0 @@
-This is a test to add text.
-Add line back in again.
-This is a bug fix
